@@ -1,3 +1,21 @@
+# 🌟 Umang Raval
+
+![Banner](https://github.com/user-attachments/assets/91ad7b7d-05ef-4a31-90ae-ff137735242b)
+![Header](https://github.com/user-attachments/assets/91ad7b7d-05ef-4a31-90ae-ff137735242b)
+
+<img src="https://github.com/user-attachments/assets/94174bc0-3cec-490e-a199-176693b22503" width="150" height="150" align="left" />
+
+Hi there! 👋 I'm **Umang Raval**, a tech enthusiast with a deep passion for **Computer Science**, **Cybersecurity**, and **DevOps**. I am always eager to dive into complex problems, explore new technologies, and build secure, scalable solutions.
+
+🔐 **Cybersecurity**: Protecting systems and data is my priority.  
+⚙️ **DevOps**: Automating processes and creating efficient workflows.  
+💻 **Computer Science**: Building a strong foundation in algorithms, data structures, and modern software development.
+
+---
+
+🚀 **Let's Connect**  
+Explore my repositories and feel free to reach out for collaboration or just to chat about technology!
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umangezp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umang-raval-4ab634282) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/UmangRaval0365) 
