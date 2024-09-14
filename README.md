@@ -1,7 +1,6 @@
 # 🌟 Umang Raval
 
 ![Banner](https://github.com/user-attachments/assets/91ad7b7d-05ef-4a31-90ae-ff137735242b)
-![Header](https://github.com/user-attachments/assets/91ad7b7d-05ef-4a31-90ae-ff137735242b)
 
 <img src="https://github.com/user-attachments/assets/94174bc0-3cec-490e-a199-176693b22503" width="150" height="150" align="left" />
 
