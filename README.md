@@ -85,9 +85,6 @@ Explore my repositories and feel free to reach out for collaboration or just to 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DepresseDeeZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://programmerhumor.io/hot/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=DepresseDeeZ&icon=0&color=0)](https://visitcount.itsvg.in)
 
