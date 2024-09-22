@@ -17,7 +17,7 @@ Explore my repositories and feel free to reach out for collaboration or just to 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umangezp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umang-raval-4ab634282) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/UmangRaval0365) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umangezp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umang-raval-4ab634282) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/UmanGeZ) 
 
 # 💻 Tech Stack:
 
