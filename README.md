@@ -1,106 +1,91 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://i.pinimg.com/originals/f3/1d/17/f31d1720d436c649987c674261895a2d.gif" width="100%" style="border-radius: 20px; box-shadow: 0px 5px 15px rgba(0,0,0,0.1);" alt="Aesthetic Banner">
-</div>
+# 🌟 Umang Raval
 
-<br/>
+![Banner](https://github.com/user-attachments/assets/91ad7b7d-05ef-4a31-90ae-ff137735242b)
 
-<!-- MAIN PROFILE SECTION (Table Layout for professional look) -->
-<div align="center">
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- LEFT COLUMN: INTRO & TEXT -->
-    <td width="60%" valign="center">
-      <h1>👋 Hi, I'm <span style="color: #ff85a2;">Umang Raval</span></h1>
-      
-      <!-- TYPING SVG -->
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=24&duration=3000&pause=1000&color=66BB6A&background=FFFFFF00&vCenter=true&width=450&lines=Cybersecurity+Specialist+%F0%9F%94%90;DevOps+Engineer+%E2%9A%99%EF%B8%8F;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
-      </a>
-      
-      <br/><br/>
-      
-      <p>
-        I am a tech enthusiast with a deep passion for <b>Computer Science</b>. 
-        I love diving into complex problems and building secure, scalable solutions.
-      </p>
-      
-      <p>
-        🌸 <b>Cybersecurity</b> &nbsp;|&nbsp; 🍵 <b>DevOps</b> &nbsp;|&nbsp; 💻 <b>CS Core</b>
-      </p>
+<img src="https://github.com/user-attachments/assets/94174bc0-3cec-490e-a199-176693b22503" width="150" height="150" align="left" />
 
-      <!-- SOCIALS -->
-      <p>
-        <a href="https://instagram.com/umangezp">
-          <img src="https://img.shields.io/badge/Instagram-FFDBE9?style=flat-square&logo=instagram&logoColor=black&labelColor=FFDBE9" />
-        </a>
-        <a href="https://linkedin.com/in/umang-raval-4ab634282">
-          <img src="https://img.shields.io/badge/LinkedIn-C8E6C9?style=flat-square&logo=linkedin&logoColor=black&labelColor=C8E6C9" />
-        </a>
-        <a href="https://x.com/UmanGeZ">
-          <img src="https://img.shields.io/badge/X-FFDBE9?style=flat-square&logo=x&logoColor=black&labelColor=FFDBE9" />
-        </a>
-      </p>
-    </td>
+Hi there! 👋 I'm **Umang Raval**, a tech enthusiast with a deep passion for **Computer Science**, **Cybersecurity**, and **DevOps**. I am always eager to dive into complex problems, explore new technologies, and build secure, scalable solutions.
 
-    <!-- RIGHT COLUMN: PROFILE PICTURE -->
-    <td width="40%" align="center">
-      <img src="https://github.com/user-attachments/assets/94174bc0-3cec-490e-a199-176693b22503" width="180" height="180" style="border-radius: 50%; border: 6px solid #C8E6C9; box-shadow: 0px 0px 20px rgba(200, 230, 201, 0.6);" alt="Umang Profile">
-    </td>
-  </tr>
-</table>
-</div>
+🔐 **Cybersecurity**: Protecting systems and data is my priority.  
+⚙️ **DevOps**: Automating processes and creating efficient workflows.  
+💻 **Computer Science**: Building a strong foundation in algorithms, data structures, and modern software development.
 
-<!-- AESTHETIC DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+---
 
-<br/>
+🚀 **Let's Connect**  
+Explore my repositories and feel free to reach out for collaboration or just to chat about technology!
 
-<!-- TECH STACK (Alternating Pink & Green) -->
-<h3 align="center">☁️ Languages & Frameworks</h3>
-<div align="center">
-  <!-- Line 1 -->
-  <img src="https://img.shields.io/badge/C++-black?style=flat-square&logo=c%2B%2B&logoColor=white&color=ff85a2" />
-  <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white&color=81c784" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white&color=ff85a2" />
-  <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=white&color=81c784" />
-  <img src="https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin&logoColor=white&color=ff85a2" />
-  <img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=php&logoColor=white&color=81c784" />
-  <br/><br/>
-  
-  <!-- Line 2 -->
-  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white&color=81c784" />
-  <img src="https://img.shields.io/badge/Next.JS-black?style=flat-square&logo=next.js&logoColor=white&color=ff85a2" />
-  <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white&color=81c784" />
-  <img src="https://img.shields.io/badge/Node.JS-black?style=flat-square&logo=node.js&logoColor=white&color=ff85a2" />
-  <img src="https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter&logoColor=white&color=81c784" />
-  <img src="https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite&logoColor=white&color=ff85a2" />
-</div>
 
-<br/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umangezp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umang-raval-4ab634282) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/UmanGeZ) 
 
-<h3 align="center">🌱 Cloud & Tools</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=white&color=ff85a2" />
-  <img src="https://img.shields.io/badge/Google_Cloud-black?style=flat-square&logo=google-cloud&logoColor=white&color=81c784" />
-  <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase&logoColor=white&color=ff85a2" />
-  <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=white&color=81c784" />
-  <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=white&color=ff85a2" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Photoshop-black?style=flat-square&logo=adobe%20photoshop&logoColor=white&color=81c784" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-black?style=flat-square&logo=adobe%20premiere%20pro&logoColor=white&color=ff85a2" />
-  <img src="https://img.shields.io/badge/Lightroom-black?style=flat-square&logo=adobe%20lightroom&logoColor=white&color=81c784" />
-</div>
+# 💻 Tech Stack:
 
-<br/>
+## Frameworks and Libraries:
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://64.media.tumblr.com/7123985390740922810486895351833d/tumblr_inline_p7g2085A8s1r4k6i2_540.gif" width="100%" style="border-radius: 15px;" alt="Footer Anime">
-  <br/><br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=DepresseDeeZ&icon=0&color=0" />
-  </a>
-</div>
+## Programming Languages:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+## Databases:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## Cloud & DevOps:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+## Tools and Other Technologies:
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+## Web Technologies:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## Design and Video Editing:
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+## Basic Knowledge:
+- **Data Structures and Algorithms**
+- **Object-Oriented Programming (OOP)**
+- **Version Control (Git)**
+- **Operating Systems**
+- **Computer Networks**
+- **Database Management**
+ 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DepresseDeeZ&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DepresseDeeZ&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DepresseDeeZ&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DepresseDeeZ&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DepresseDeeZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=DepresseDeeZ&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
