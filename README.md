@@ -1,90 +1,126 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/b6/f8/12/b6f812693899bf95df87127e4e0477b7.gif" width="100%" style="border-radius: 15px;" alt="Anime Scenery">
-</div>
-
-<br/>
+<!-- README.md — Umang Raval — Cool Aesthetic (Bento Glass Panels, Green/Pink) -->
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/94174bc0-3cec-490e-a199-176693b22503" width="160" height="160" style="border-radius: 50%; border: 4px solid #FFC0CB;" alt="Umang Raval">
-  
-  <br/><br/>
-
-  <h1 align="center">Hi, I'm Umang Raval 🌸</h1>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=5FA37E&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Computer+Science+%7C+Cybersecurity;DevOps+Enthusiast+%E2%9C%A8;Building+Secure+Scalable+Solutions" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <samp>
-      "Protecting systems, automating workflows, and building the future."
-    </samp>
-  </p>
-
-  <a href="https://instagram.com/umangezp">
-    <img src="https://img.shields.io/badge/Instagram-ffc0cb?style=flat-square&logo=instagram&logoColor=white&labelColor=ff85a2" />
-  </a>
-  <a href="https://linkedin.com/in/umang-raval-4ab634282">
-    <img src="https://img.shields.io/badge/LinkedIn-d1f2eb?style=flat-square&logo=linkedin&logoColor=black&labelColor=a3e4d7" />
-  </a>
-  <a href="https://x.com/UmanGeZ">
-    <img src="https://img.shields.io/badge/X-ffc0cb?style=flat-square&logo=x&logoColor=white&labelColor=ff85a2" />
-  </a>
+  <img src="https://media.giphy.com/media/3o6gbbuLW76jkt8vIc/giphy.gif" alt="anime-gif" style="width:100%; max-height:220px; object-fit:cover; border-radius:14px; filter:contrast(1.03) saturate(1.05);"/>
 </div>
 
-<br/>
+<h1 align="center">Hi — I’m <strong>Umang Raval</strong> ✨</h1>
+<p align="center"><em>Cybersecurity • DevOps • Computer Science</em></p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
+
+<!-- Bento grid: 2 columns on wide screens, single on narrow -->
+
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap:18px;">
+
+  <!-- Profile Card -->
+
+  <div style="backdrop-filter: blur(8px); background: linear-gradient(135deg, rgba(255,255,255,0.06), rgba(0,0,0,0.06)); border:1px solid rgba(255,255,255,0.06); border-radius:14px; padding:18px; box-shadow: 0 8px 30px rgba(0,0,0,0.25);">
+    <div style="display:flex; gap:12px; align-items:center;">
+      <img src="https://github.com/user-attachments/assets/94174bc0-3cec-490e-a199-176693b22503" alt="avatar" style="width:86px; height:86px; border-radius:50%; box-shadow: 0 6px 20px rgba(0,0,0,0.25); object-fit:cover;"/>
+      <div>
+        <h2 style="margin:0 0 4px 0;">Umang Raval</h2>
+        <p style="margin:0; font-size:14px; opacity:0.9">Cybersecurity • DevOps • CS</p>
+      </div>
+    </div>
+
+```
+<p style="margin-top:12px; font-size:14px; line-height:1.45;">I build secure, scalable systems and automate workflows. I like clean infrastructure, tight pipelines, and a little anime aesthetic on the side.</p>
+
+<div style="display:flex; gap:8px; margin-top:12px; flex-wrap:wrap;">
+  <a href="https://linkedin.com/in/umang-raval-4ab634282" style="text-decoration:none; padding:8px 10px; border-radius:10px; border:1px solid rgba(255,255,255,0.06);">LinkedIn</a>
+  <a href="https://x.com/UmanGeZ" style="text-decoration:none; padding:8px 10px; border-radius:10px; border:1px solid rgba(255,255,255,0.06);">X</a>
+  <a href="https://instagram.com/umangezp" style="text-decoration:none; padding:8px 10px; border-radius:10px; border:1px solid rgba(255,255,255,0.06);">Instagram</a>
+</div>
+```
+
+  </div>
+
+  <!-- Quick Links (Glass Panel) -->
+
+  <div style="backdrop-filter: blur(10px); background: linear-gradient(135deg, rgba(200,255,230,0.03), rgba(255,200,230,0.02)); border:1px solid rgba(180,200,200,0.04); border-radius:14px; padding:18px;">
+    <h3 style="margin-top:0;">Quick Links</h3>
+    <ul style="margin:8px 0 0 16px; padding:0; font-size:14px;">
+      <li><a href="#projects" style="text-decoration:none;">Featured Projects</a></li>
+      <li><a href="#tech-stack" style="text-decoration:none;">Tech Stack</a></li>
+      <li><a href="#contact" style="text-decoration:none;">Contact</a></li>
+    </ul>
+
+```
+<div style="margin-top:14px; display:flex; gap:8px; align-items:center;">
+  <div style="font-size:12px; padding:6px 10px; border-radius:999px; background:rgba(255,255,255,0.02);">Status: Open to collaborate</div>
+  <div style="font-size:12px; padding:6px 10px; border-radius:999px; background:linear-gradient(90deg,#b7ffd9aa,#ffc6e3aa);">Vibe: Chill • Anime • Minimal</div>
+</div>
+```
+
+  </div>
+
+  <!-- Bento: Skills Card -->
+
+  <div style="backdrop-filter: blur(6px); background: linear-gradient(135deg, rgba(230,255,240,0.03), rgba(255,230,240,0.02)); border-radius:14px; padding:16px; border:1px solid rgba(255,255,255,0.04);">
+    <h3 style="margin-top:0;">Tech Stack</h3>
+    <p style="margin:8px 0 0 0; font-size:14px;">React · Next.js · Node · Python · C++ · Docker · AWS · GCP · MongoDB</p>
+
+```
+<div style="display:flex; gap:10px; margin-top:12px; flex-wrap:wrap;">
+  <span style="padding:6px 10px; border-radius:10px; backdrop-filter:blur(6px); border:1px solid rgba(255,255,255,0.03);">DevOps</span>
+  <span style="padding:6px 10px; border-radius:10px;">Cybersec</span>
+  <span style="padding:6px 10px; border-radius:10px;">Flutter</span>
+  <span style="padding:6px 10px; border-radius:10px;">DSA</span>
+</div>
+```
+
+  </div>
+
+  <!-- Bento: Projects Card -->
+
+  <div id="projects" style="backdrop-filter: blur(6px); background: linear-gradient(135deg, rgba(220,255,245,0.03), rgba(255,230,245,0.02)); border-radius:14px; padding:16px; border:1px solid rgba(255,255,255,0.04);">
+    <h3 style="margin-top:0;">Featured Projects</h3>
+
+```
+<div style="display:grid; grid-template-columns:1fr; gap:8px;">
+  <div style="padding:10px; border-radius:10px; border:1px solid rgba(0,0,0,0.06); background:linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.00));">
+    <strong>Secure-Deploy</strong>
+    <div style="font-size:13px; opacity:0.9;">CI/CD + secrets management for safe rollouts.</div>
+  </div>
+
+  <div style="padding:10px; border-radius:10px; border:1px solid rgba(0,0,0,0.06); background:linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.00));">
+    <strong>LoFi-Logger</strong>
+    <div style="font-size:13px; opacity:0.9;">Lightweight monitoring with minimal overhead.</div>
+  </div>
+
+  <div style="padding:10px; border-radius:10px; border:1px solid rgba(0,0,0,0.06); background:linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.00));">
+    <strong>Pocket-Utilities</strong>
+    <div style="font-size:13px; opacity:0.9;">Small Flutter tools for everyday tasks.</div>
+  </div>
+</div>
+```
+
+  </div>
+
+  <!-- Contact / CTA Card -->
+
+  <div id="contact" style="backdrop-filter: blur(8px); background: linear-gradient(135deg, rgba(230,255,240,0.03), rgba(255,230,240,0.03)); border-radius:14px; padding:18px; border:1px solid rgba(255,255,255,0.04);">
+    <h3 style="margin-top:0;">Let’s Collab</h3>
+    <p style="margin:6px 0 10px 0; font-size:14px;">Open to security projects, DevOps automation, and small freelance gigs.</p>
+
+```
+<a href="mailto:your-email@example.com" style="display:inline-block; padding:10px 14px; border-radius:12px; text-decoration:none; font-weight:600;">Email Me</a>
+
+<div style="margin-top:12px; font-size:13px; color:rgba(255,255,255,0.85);">Or ping me on X / LinkedIn — I check messages regularly.</div>
+```
+
+  </div>
+
 </div>
 
-<h3 align="center">🌱 Technical Arsenal</h3>
+---
 
-<div align="center">
+<p align="center" style="margin-top:18px;">Want different colors (darker green, or more pinks), animated separators, or a compact single-column bio version? Reply with the color palette you like and I’ll update the canvas.</p>
 
-  <p><b>Languages</b></p>
-  <img src="https://img.shields.io/badge/C++-FFFFFF?style=flat-square&labelColor=FFC0CB&color=FFC0CB" />
-  <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&labelColor=B5EAD7&color=B5EAD7" />
-  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&labelColor=FFC0CB&color=FFC0CB" />
-  <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=flat-square&labelColor=B5EAD7&color=B5EAD7" />
-  <img src="https://img.shields.io/badge/Kotlin-FFFFFF?style=flat-square&labelColor=FFC0CB&color=FFC0CB" />
-  <img src="https://img.shields.io/badge/PHP-FFFFFF?style=flat-square&labelColor=B5EAD7&color=B5EAD7" />
-
-  <br/>
-
-  <p><b>Frameworks & Libs</b></p>
-  <img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&labelColor=B5EAD7&color=B5EAD7" />
-  <img src="https://img.shields.io/badge/Next.JS-FFFFFF?style=flat-square&labelColor=FFC0CB&color=FFC0CB" />
-  <img src="https://img.shields.io/badge/Node.JS-FFFFFF?style=flat-square&labelColor=B5EAD7&color=B5EAD7" />
-  <img src="https://img.shields.io/badge/Express-FFFFFF?style=flat-square&labelColor=FFC0CB&color=FFC0CB" />
-  <img src="https://img.shields.io/badge/Flutter-FFFFFF?style=flat-square&labelColor=B5EAD7&color=B5EAD7" />
-  <img src="https://img.shields.io/badge/Vite-FFFFFF?style=flat-square&labelColor=FFC0CB&color=FFC0CB" />
-  
-  <br/>
-
-  <p><b>Data & Cloud</b></p>
-  <img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=flat-square&labelColor=FFC0CB&color=FFC0CB" />
-  <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&labelColor=B5EAD7&color=B5EAD7" />
-  <img src="https://img.shields.io/badge/AWS-FFFFFF?style=flat-square&labelColor=FFC0CB&color=FFC0CB" />
-  <img src="https://img.shields.io/badge/Firebase-FFFFFF?style=flat-square&labelColor=B5EAD7&color=B5EAD7" />
-  <img src="https://img.shields.io/badge/Google_Cloud-FFFFFF?style=flat-square&labelColor=FFC0CB&color=FFC0CB" />
-
-  <br/>
-
-  <p><b>Creative & Tools</b></p>
-  <img src="https://img.shields.io/badge/Photoshop-FFFFFF?style=flat-square&labelColor=B5EAD7&color=B5EAD7" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-FFFFFF?style=flat-square&labelColor=FFC0CB&color=FFC0CB" />
-  <img src="https://img.shields.io/badge/Lightroom-FFFFFF?style=flat-square&labelColor=B5EAD7&color=B5EAD7" />
-  <img src="https://img.shields.io/badge/Git-FFFFFF?style=flat-square&labelColor=FFC0CB&color=FFC0CB" />
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="https://media.tenor.com/f259q3s6D4IAAAAi/pixel-art.gif" width="100%" style="border-radius: 10px;" alt="Footer Anime" />
-  <br/><br/>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=DepresseDeeZ&icon=0&color=0" />
-  </a>
-</div>
+<!--
+  Notes:
+  - Replace `your-email@example.com` with your actual email.
+  - Replace project names and links with real repo links.
+  - If you want a downloadable image/GIF pack or a dark-mode alternate, say so and I'll make it.
+-->
